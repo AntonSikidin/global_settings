@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_VIEW" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>ZVI_SET_PROJECT</VIEWNAME>
+    <AS4LOCAL>A</AS4LOCAL>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <AGGTYPE>V</AGGTYPE>
+    <ROOTTAB>ZTB_SET_PROJECT</ROOTTAB>
+    <DDTEXT>Project</DDTEXT>
+    <VIEWCLASS>C</VIEWCLASS>
+    <CUSTOMAUTH>C</CUSTOMAUTH>
+    <GLOBALFLAG>X</GLOBALFLAG>
+   </DD25V>
+   <DD26V_TABLE>
+    <DD26V>
+     <VIEWNAME>ZVI_SET_PROJECT</VIEWNAME>
+     <TABNAME>ZTB_SET_PROJECT</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZTB_SET_PROJECT</FORTABNAME>
+    </DD26V>
+   </DD26V_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWFIELD>CLNT</VIEWFIELD>
+     <TABNAME>ZTB_SET_PROJECT</TABNAME>
+     <FIELDNAME>CLNT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+    </DD27P>
+    <DD27P>
+     <VIEWFIELD>PROJECT</VIEWFIELD>
+     <TABNAME>ZTB_SET_PROJECT</TABNAME>
+     <FIELDNAME>PROJECT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+    </DD27P>
+    <DD27P>
+     <VIEWFIELD>DESCRIPTION</VIEWFIELD>
+     <TABNAME>ZTB_SET_PROJECT</TABNAME>
+     <FIELDNAME>DESCRIPTION</FIELDNAME>
+    </DD27P>
+   </DD27P_TABLE>
+   <I18N_LANGS>
+    <LANGU>8</LANGU>
+   </I18N_LANGS>
+   <DD25_TEXTS>
+    <item>
+     <DDLANGUAGE>8</DDLANGUAGE>
+     <DDTEXT>Project name and description</DDTEXT>
+    </item>
+   </DD25_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

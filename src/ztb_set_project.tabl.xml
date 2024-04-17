@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>ZTB_SET_PROJECT</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <TABCLASS>TRANSP</TABCLASS>
+    <CLIDEP>X</CLIDEP>
+    <DDTEXT>Projects</DDTEXT>
+    <MAINFLAG>X</MAINFLAG>
+    <CONTFLAG>C</CONTFLAG>
+    <EXCLASS>1</EXCLASS>
+   </DD02V>
+   <DD09L>
+    <TABNAME>ZTB_SET_PROJECT</TABNAME>
+    <AS4LOCAL>A</AS4LOCAL>
+    <TABKAT>0</TABKAT>
+    <TABART>APPL2</TABART>
+    <BUFALLOW>N</BUFALLOW>
+   </DD09L>
+   <DD03P_TABLE>
+    <DD03P>
+     <FIELDNAME>CLNT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ROLLNAME>MANDT</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <NOTNULL>X</NOTNULL>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>PROJECT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ROLLNAME>AKB_PROJECT_NAME</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <NOTNULL>X</NOTNULL>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>DESCRIPTION</FIELDNAME>
+     <ROLLNAME>AXT_DESCRIPTION</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+   </DD03P_TABLE>
+   <I18N_LANGS>
+    <LANGU>8</LANGU>
+   </I18N_LANGS>
+   <DD02_TEXTS>
+    <item>
+     <DDLANGUAGE>8</DDLANGUAGE>
+     <DDTEXT>Project name and description</DDTEXT>
+    </item>
+   </DD02_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

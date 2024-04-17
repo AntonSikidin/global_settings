@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <OBJH>
+    <OBJECTNAME>ZVI_GLOBAL_SET</OBJECTNAME>
+    <OBJECTTYPE>C</OBJECTTYPE>
+    <OBJTRANSP>2</OBJTRANSP>
+    <IMPORTABLE>3</IMPORTABLE>
+   </OBJH>
+   <OBJT>
+    <LANGUAGE>E</LANGUAGE>
+    <OBJECTNAME>ZVI_GLOBAL_SET</OBJECTNAME>
+    <OBJECTTYPE>C</OBJECTTYPE>
+    <DDTEXT>Global Settings</DDTEXT>
+   </OBJT>
+   <OBJS>
+    <OBJS>
+     <OBJECTNAME>ZVI_GLOBAL_SET</OBJECTNAME>
+     <OBJECTTYPE>C</OBJECTTYPE>
+     <TABNAME>ZVI_SET_DESCRIPT</TABNAME>
+     <DDIC>X</DDIC>
+    </OBJS>
+    <OBJS>
+     <OBJECTNAME>ZVI_GLOBAL_SET</OBJECTNAME>
+     <OBJECTTYPE>C</OBJECTTYPE>
+     <TABNAME>ZVI_SET_PROJECT</TABNAME>
+     <DDIC>X</DDIC>
+    </OBJS>
+    <OBJS>
+     <OBJECTNAME>ZVI_GLOBAL_SET</OBJECTNAME>
+     <OBJECTTYPE>C</OBJECTTYPE>
+     <TABNAME>ZVI_SET_VARIABLE</TABNAME>
+     <DDIC>X</DDIC>
+    </OBJS>
+   </OBJS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

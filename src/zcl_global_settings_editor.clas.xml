@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_GLOBAL_SETTINGS_EDITOR</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Settings editor</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>HIST_ALV</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Basis Class for Simple Tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>HIST_MAX</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Версія виразу</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INSTANCE</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Редагування налаштувань</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_BOT_ALV</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Basis Class for Simple Tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_GS</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Global Settings</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_LEFT_ALV</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Basis Class for Simple Tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_MAIN_CONT</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Container for Custom Controls in the Screen Area</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_RIGHT_ALV</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Basis Class for Simple Tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MR_RIGHT_CONT</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Abstract Container for GUI Controls</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_FIRST_RUN</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Незалежний перемикач</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_PROJ</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Устарело: название проекта</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CHOOSE</CMPNAME>
+     <SCONAME>IV_ROW</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Строка</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IV_PROJ</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Устарело: название проекта</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>EXCLUDE_TB_FUNCTIONS_TABNAME</CMPNAME>
+     <SCONAME>PT_EXCLUDE</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Таблица кодов функций</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>MAIN</CMPNAME>
+     <SCONAME>IV_PROJ</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Устарело: название проекта</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_GS</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Global Settings</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>MT_HIST</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Заголовок версії</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MT_VAR</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Variable name, type, kind</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_PROJECT</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Устарело: название проекта</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_SINGLE_VALUE</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Незалежний перемикач</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_VAR</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MV_VERSION</CMPNAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Версія виразу</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IV_PROJECT</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Устарело: название проекта</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_DATA</CMPNAME>
+     <SCONAME>EV_SINGLE_VAR</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Незалежний перемикач</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_DATA</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_JSON_FROM_DB</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_JSON_FROM_DB_HIST</CMPNAME>
+     <SCONAME>IV_GUID</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_OBJECT</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_OBJECT_TABLE</CMPNAME>
+     <SCONAME>EV_SINGLE_VAR</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Незалежний перемикач</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_OBJECT_TABLE</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_VERSION</CMPNAME>
+     <SCONAME>EV_HDR</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Заголовок версії</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>PREPARE_HIST</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SAVE_JSON_TO_DB</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SAVE_OBJECT</CMPNAME>
+     <SCONAME>IV_VAR_NAME</SCONAME>
+     <LANGU>8</LANGU>
+     <DESCRIPT>Имя параметра</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
