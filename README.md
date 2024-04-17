@@ -1,4 +1,4 @@
-# New way to maintain settings
+# New way to maintain settings in ABAP
 Time to time constants appears in your code.  Some time constants are less constant.  They have different types for example date of feature start, rfc_dest to other system, and number of parallel tasks. 
 
 To maintain settings you have to create a table of 1 row or class for constant. Both this way has different costs to create settings, add settings, and change settings. Less is better.
